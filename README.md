@@ -1,5 +1,4 @@
 # Arnis Strike Detection System
-Keme keme lang to pwede palitan hehe
 A comprehensive project that leverages deep learning and computer vision to detect and classify strikes in the Filipino martial art of Arnis. This repository contains the code for model experimentation (CNN, CNN-LSTM, YOLOv12), a user-friendly desktop application, and a detailed analysis of the dataset and model performance.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
